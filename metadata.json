@@ -1,0 +1,7 @@
+{
+  "name": "MediScan360",
+  "description": "AI-powered health triage assistant analyzing symptoms, reports, and prescriptions using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
